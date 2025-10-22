@@ -1,16 +1,14 @@
-# todo_app
+# Flutter Todo App
 
-A new Flutter project.
+This project is a cross-platform To-Do list app demo. Users can add, delete, change the priority and log completion of tasks. Check out the live [To-Do web app demo](https://todo-app-rugburn.web.app/).
 
-## Getting Started
+## Theming
 
-This project is a starting point for a Flutter application.
+This app offers two unique UIs for Dark and Light theme user preferences.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Skills
+- **Theming** to support dark and light mode UIs
+- **Modal Views** for adding new to-do tasks and alerting user of invalid input
+- **Dismissible** list items, to allow user to swipe an task to remove it
+- **Snackbar notifications** to allow user to 'undo' when deleting a task 
+- Hosting using **Firebase**
